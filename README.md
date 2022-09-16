@@ -1,4 +1,4 @@
-<div align="center"><img height="200" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/></div>
+<div align="center"><img height="200" src="https://raw.githubusercontent.com/Chelsea-Fox/Chelsea-Fox/master/Hello%20World.gif"/></div>
 
 # Hey, I'm Chelsea👋 
 
