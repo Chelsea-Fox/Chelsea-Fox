@@ -12,7 +12,7 @@ In my personal life I have set up and currently maintain my own server which hos
 I have also acquired a 3D printer and have started selling models on my [Etsy](https://shop.foxtrt.com/) for a little bit of fun and extra cash, I love upgrading the printer and troubleshooting all of its challenges both printing and modelling designs.
 
 ## Rapidfire  
-- 🖥️ I’m currently working on [P2P-Private-Chat](https://github.com/Foxtrt-com/P2P-Private-Chat)  
+- 🖥️ I’m currently working on [P2P-Private-Chat](https://github.com/Foxtrt-com/P2P-Private-Chat) & [Foxbot](https://github.com/Foxtrt-com/Foxbot)
 - 🌱 Currently studying a Software Developer Lvl 4 course!  
 - ❓ Ask me about anything nerdy!  
 
