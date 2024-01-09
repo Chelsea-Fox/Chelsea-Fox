@@ -9,7 +9,7 @@ I started out as a entry level network engineer shortly after finishing my CS co
 
 In my personal life I have set up and currently maintain my own server which hosts a plethora of services for internal and external use, such as my website [Foxtrt.com](https://foxtrt.com)
 
-I have also acquired a 3D printer and have started selling models on my [Etsy](https://shop.foxtrt.com/) for a little bit of fun and extra cash, I love upgrading the printer and troubleshooting all of its challenges both printing and modelling designs.
+I have also acquired a 3D printer and have started selling models on my [Etsy](https://foxtrt.etsy.com/) for a little bit of fun and extra cash, I love upgrading the printer and troubleshooting all of its challenges both printing and modelling designs.
 
 ## Rapidfire  
 - 🖥️ I’m currently working on [P2P-Private-Chat](https://github.com/Foxtrt-com/P2P-Private-Chat) & [Foxbot](https://github.com/Foxtrt-com/Foxbot)
