@@ -13,7 +13,7 @@ I have also acquired a 3D printer and have started selling models on my [Etsy](h
 
 ## Rapidfire  
 - 🖥️ I’m currently working on [P2P-Private-Chat](https://github.com/Foxtrt-com/P2P-Private-Chat) & [Foxbot](https://github.com/Foxtrt-com/Foxbot) although both have went very much in the background with how busy i am in other avenues of life.
-- 🌱 Just completed my Software Developer Lvl 4 course with a distinction!
+- 🌱 Recently completed my Software Developer Lvl 4 course with a distinction! and now persuing volunteer work to help me grow.
 - ❓ Ask me about anything nerdy!  
 
 
