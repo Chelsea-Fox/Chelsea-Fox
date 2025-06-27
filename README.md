@@ -4,16 +4,16 @@
 
 Just a nerdy girl doing her thing.
 
-## I'm a Tech Inthusiast, Developer, and Network Engineer!!
-I started out as a entry level network engineer shortly after finishing my CS course at college, over my years at my current job I have branched out learning many technologies including hardware, software, networking and programming.
+## I'm a Tech Enthusiast, Developer, and Network Engineer!!
+I started out as a entry level network engineer shortly after finishing my CS course at college, over my, now many, years at my current job I have branched out learning many subjects including hardware, software, networking and programming.
 
-In my personal life I have set up and currently maintain my own server which hosts a plethora of services for internal and external use, such as my website [Foxtrt.com](https://foxtrt.com)
+In my personal life I have set up and currently maintain my own Proxmox VE server which hosts a plethora of services for internal and external use, such as my website [Foxtrt.com](https://foxtrt.com)
 
-I have also acquired a 3D printer and have started selling models on my [Etsy](https://foxtrt.etsy.com/) for a little bit of fun and extra cash, I love upgrading the printer and troubleshooting all of its challenges both printing and modelling designs.
+Recently a part of a local makerspace, learning how to use new technologies to aid my more creative side of life, such as punk fasion, gadgets and doohickeys, and ofcourse even more software development!
 
 ## Rapidfire  
-- 🖥️ I’m currently working on [SHRT](https://github.com/Foxtrt-com/SHRT) and more stuff for my personal use.
-- 🌱 Recently completed my Software Developer Lvl 4 course with a distinction! and now persuing volunteer work to help me grow.
+- 🖥️ I’m currently working on [SHRT](https://github.com/Foxtrt-com/shrt), [CDN](https://github.com/Foxtrt-com/cdn)and more stuff for my personal use.
+- 🌱 Recently completed my Software Developer Lvl 4 course with a distinction! and now persuing volunteer work & looking for software dev jobs to help me grow.
 - ❓ Ask me about anything nerdy!  
 
 
