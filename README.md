@@ -67,7 +67,13 @@ Recently a part of a local makerspace, learning how to use new technologies to a
 <br/>  
 
 ---
-![Chelsea's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Chelsea-Fox&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chelsea-Fox&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Chelsea-Fox&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelsea-Fox&hide_border=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
