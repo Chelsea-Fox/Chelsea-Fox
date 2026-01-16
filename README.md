@@ -17,11 +17,12 @@ I started out as a entry level network engineer shortly after finishing my CS co
 
 In my personal life I have set up and currently maintain my own Proxmox VE server which hosts a plethora of services for internal and external use, such as my website [Foxtrt.com](https://foxtrt.com)
 
-Recently a part of a local makerspace, learning how to use new technologies to aid my more creative side of life, such as punk fasion, gadgets and doohickeys, and ofcourse even more software development!
+Part of a local makerspace, learning how to use new technologies to aid my more creative side of life, such as punk fasion, gadgets, doohickeys, thingamabobs, and ofcourse even more software development!
 
 ## Rapidfire  
-- 🖥️ I’m currently working on [SHRT](https://github.com/Foxtrt-com/shrt), [CDN](https://github.com/Foxtrt-com/cdn) and more stuff for my personal use.
-- 🌱 Recently completed my Software Developer Lvl 4 course with a distinction! and now persuing volunteer work & looking for software dev jobs to help me grow.
+- 🖥️ I’m currently working on [Gotchi](https://github.com/Chelsea-Fox/gotchi-game) and more stuff for my personal use.
+- 🌱 Completed my Software Developer Lvl 4 course with a distinction! looking for software dev jobs to help me grow.
+- ✏️ Sketching, 🎮 gaming and, very amature, 🎹 music production in my free time.
 - ❓ Ask me about anything nerdy!  
 
 
